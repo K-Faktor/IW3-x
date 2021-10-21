@@ -22,7 +22,7 @@ onPlayerConnect()
 }
 
 updateDamageFeedback()
-{
+{	
 	self playlocalsound("MP_hit_alert");
 	self.hud_damagefeedback setShader("damage_feedback", 24, 48);
 	self.hud_damagefeedback.alpha = 1;

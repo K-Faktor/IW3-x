@@ -49,6 +49,22 @@ init()
     level.clockTime.glowColor = (0.3, 3, 1);
     level.clockTime.glowAlpha = 1;
     level.clockTime.hidewheninmenu = true;
+	
+	level.aliveHud = newHudElem();
+    level.aliveHud.foreground = true;
+	level.aliveHud.alignX = "right";
+	level.aliveHud.alignY = "top";
+	level.aliveHud.horzAlign = "right";
+    level.aliveHud.vertAlign = "top";
+    level.aliveHud.x = -10;
+    level.aliveHud.y = 75;
+    level.aliveHud.sort = 0;
+  	level.aliveHud.fontScale = 2;
+	level.aliveHud.color = (0.8, 1.0, 0.8);
+	level.aliveHud.font = "default";
+	level.aliveHud.glowColor = (0.3, 3, 1);
+	level.aliveHud.glowAlpha = 1;
+ 	level.aliveHud.hidewheninmenu = true;
     
 	thread onRoundStarted();
 	thread onRoundEnded();
@@ -57,12 +73,11 @@ init()
 onRoundStarted()
 {
 	level waittill( "game_started" );
-	level.roundHud setText( game["roundsplayed"] + "/" + level.roundLimit );
+	
 }
 
 onRoundEnded()
 {
 	level waittill( "game_ended" );
-	level.clockTime destroy();
-	level.roundHud destroy();
+	
 }

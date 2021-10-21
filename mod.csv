@@ -5,9 +5,33 @@ menufile,ui_mp/scriptmenus/clientcmd.menu
 menufile,ui_mp/scriptmenus/iw3x_team.menu
 menufile,ui_mp/scriptmenus/quickstuff.menu
 
+rawfile,info/bullet_penetration_mp
+rawfile,animtrees/multiplayer.atr
+rawfile,mp/playeranimtypes.txt
+rawfile,mp/playeranim.script
+
 rawfile,maps/mp/gametypes/_gametypes.txt
 rawfile,maps/mp/gametypes/dr.txt
+
+xmodel,mil_frame_charge
+xmodel,body_mp_sas_urban_sniper
 
 //material,iw3x_background
 //material,iw3x_button_bkg
 //material,iw3x_cod4x
+
+weapon,mp/knife_mp
+
+weapon,mp/dog_mp
+xmodel,german_sheperd_dog
+xanim,german_shepherd_attack_player
+xanim,german_shepherd_run_attack
+xanim,german_shepherd_idle
+xanim,german_shepherd_sitting_looking_idle
+xanim,german_shepherd_sleeping
+xanim,german_shepherd_walk
+xanim,german_shepherd_run
+xanim,german_shepherd_run_jump_40
+xanim,german_shepherd_death_front
+xanim,german_shepherd_run_pain
+xanim,german_shepherd_wakeup_fast

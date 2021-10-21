@@ -5,27 +5,21 @@
 
 init()
 {
+	iw3x\_precache::init();
+	thread iw3x\_dBot::addBot();
+	
 	level.script = toLower( getDvar( "mapname" ) );
 	level.gametype = toLower( getDvar( "g_gametype" ) );
-	precacheString( &"MP_CONNECTED" );
-	precacheString( &"IW3X_WAITING_PLAYERS" );
-	precacheString( &"IW3X_ROUND_BEGINS_IN" );
 	level.players = [];
 	
-	precacheItem( "deserteagle_mp" );
-	precacheModel("body_mp_usmc_specops");
-	precacheModel("head_mp_usmc_tactical_mich_stripes_nomex");
-	precacheModel("viewmodel_base_viewhands");
-	
 	level.freeRun = _getDvar( level.gametype + "_freerun_round", 1, 0, 1, "int" );
-	level.freeRunTime = _getDvar( level.gametype + "_freerun_time", 0.5, 0, 6.0, "float" );
+	level.freeRunTime = _getDvar( level.gametype + "_freerun_time", 1.5, 0, 6.0, "float" );
 	level.roundLimit = _getDvar( level.gametype + "_roundlimit", 6, 1, 10, "int" );
-	level.timeLimit = _getDvar( level.gametype + "_timelimit", 1.5, 0, 6.0, "float" );
-//	level.numLives = _getDvar( level.gametype + "_numlives", 3, 1, 3, "int" );
+	level.timeLimit = _getDvar( level.gametype + "_timelimit", 6, 0, 10.0, "float" );
+	level.numLives = _getDvar( level.gametype + "_numlives", 3, 1, 3, "int" );
 	
 	level.PrematchTimer = _getDvar( level.gametype + "_strattimer" , 10, 0, 999, "int" );
 	level.roundDelay = _getDvar( level.gametype + "_rounddelay" , 5	, 0, 999, "int" );
-	level.minPlayers = _getDvar( level.gametype + "_minplayers" , 2	, 2, 64, "int" );
 	
 	level.speedAllies = _getDvar( level.gametype + "_allies_speed" , 1.2, 1.0, 2.0, "float" );
 	level.speedAxis = _getDvar( level.gametype + "_axis_speed" , 1.2, 1.0, 2.0, "float" );
@@ -75,8 +69,7 @@ spawnPlayer( origin, angles )
 	self giveMaxAmmo( "deserteagle_mp" );
 	self setSpawnWeapon( "deserteagle_mp" );
 	
-	self setModel("body_mp_usmc_specops");
-	self attach("head_mp_usmc_tactical_mich_stripes_nomex", "", true);
+	self setModel("body_mp_sas_urban_sniper");
 	self setViewmodel("viewmodel_base_viewhands");
 	
 	if ( game["state"] == "readyup" )
@@ -86,7 +79,7 @@ spawnPlayer( origin, angles )
 		self disableWeapons( );
 		self setMoveSpeedScale( 0 );
 	}
-	else if( game["state"] == "playing" || level.waitingForPlayers )
+	else if( game["state"] == "playing" )
 	{
 		self allowsprint(true);
 		self allowjump(true);
@@ -106,7 +99,7 @@ spawnSpectator()
 	self notify( "joined_spectators" );
 	
 	self.pers["team"] = "spectator";
-	self.pers = self.pers["team"];
+	self.team = self.pers["team"];
 	self.sessionteam = self.pers["team"];
 	self.sessionstate = self.pers["team"];
 	self.spectatorclient = -1;
@@ -142,19 +135,17 @@ Callback_StartGameType()
 		if ( !isDefined( game["axis"] ) )
 			game["axis"] = "opfor";
 		
-		precacheStatusIcon("hud_status_dead");
-		precacheStatusIcon("hud_status_connecting");
-		
-		precacheShader( "damage_feedback" );
-		precacheShader( "white" );
-		precacheShader( "black" );
-		
 		[[level.onPrecacheGameType]]();
 		game["gamestarted"] = true;
 	}
 	
 	if( !isDefined( game["roundsplayed"] ) )
 		game["roundsplayed"] = 1;
+	
+	level.forcedEnd = false;
+	level.aliveJumpers = 0;
+	level.aliveActivator = 0;
+	level.activatorKilled = false;
 	
 	level.roundEndDelay = 4;
 	[[level.onStartGameType]]();
@@ -164,6 +155,8 @@ Callback_StartGameType()
 	thread iw3x\_scoreboard::init();
 	thread iw3x\_quickmessages::init();
 	thread iw3x\_damagefeedback::init();
+	
+	thread iw3x\_dr_setup::init();
 	
 	deletePlacedEntity("misc_turret");
 	thread deletePickups();
@@ -184,13 +177,18 @@ deletePickups()
 	}
 }
 
+isFreeRun()
+{
+	return level.freeRun && game["roundsplayed"] == 1;
+}
+
 matchStartTimer()
 {
 	level.waitingForPlayers = false;
 	visionSetNaked( getDvar( "mapname" ), 0 );
 	
 	min = 2;
-	if( level.freeRun && game["roundsplayed"] == 1 )
+	if( isFreeRun() )
 	{
 		min = 1;
 		level.timeLimit = level.freeRunTime;
@@ -220,6 +218,9 @@ matchStartTimer()
 	matchStartText destroyElem();
 	matchStartTimer destroyElem();
 	
+	if( isFreeRun() )
+		iprintlnbold( ">> Free Run <<" );
+	
 	visionSetNaked( getDvar( "mapname" ), 2.0 );
 	game["state"] = "playing";
 }
@@ -227,9 +228,11 @@ matchStartTimer()
 startGame()
 {
 	level endon("game_ended");
-	matchStartTimer();
-	level notify("game_started");
+	matchStartTimer();	
+	
 	level.clockTime setTimer( level.timeLimit * 60 );
+	level.roundHud setText( game["roundsplayed"] + "/" + level.roundLimit );
+	level.aliveHud.label = &"Jumpers: &&1";
 	
 	for (i = 0; i < level.players.size; i++)
 	{
@@ -239,55 +242,120 @@ startGame()
 		player enableWeapons();
 		player setSpeedPlayer();
 	}
+	thread gameLogic();
+	level notify("game_started");
+}
+
+gameLogic()
+{
+	level endon( "game_ended" );
+	
+	while( true )
+	{
+		activators = 0;
+		jumpers = 0;
+		for( i = 0; i < level.players.size; i++ )
+		{
+			player = level.players[i];
+			if( player.pers["team"] == "allies" && player.sessionstate == "playing" )
+				jumpers++;
+			if( player.pers["team"] == "axis" && player.sessionstate == "playing" )
+				activators++;
+		}
+		level.aliveJumpers = jumpers;
+		level.aliveActivator = activators;
+		level.aliveHud setValue( jumpers );
+		
+		if( jumpers > 1 && !activators && !level.activatorKilled && !isFreeRun() )
+			pickRandomActivator();
+		wait 0.1;
+	}
+}
+
+pickRandomActivator()
+{
+	if( game["state"] != "playing" || level.activatorKilled )
+		return;
+	
+	guy = undefined;
+	while( true )
+	{
+		size = level.players.size;
+		num = randomInt(size);
+		guy = level.players[num];
+		
+		if( guy getEntityNumber() == getDvarInt( "last_picked_player" ) )
+		{	
+			i = num-1;
+			j = num+1;
+			if( i >= 0 && isDefined( level.players[i] ) && isPlayer( level.players[i] ) )
+				guy = level.players[i];
+			else if( j < size && isDefined( level.players[j] ) && isPlayer( level.players[j] ) )
+				guy = level.players[j];
+		}
+		if( guy.pers["team"] != "spectator" )
+			break;
+		wait 0.1;
+	}
+
+	iPrintlnBold( guy.name + "^2 was picked to be ^1Activator^2." );
+	
+	guy.pers["team"] = "axis";
+	guy [[level.spawnPlayer]]();
+	setDvar( "last_picked_player", guy getEntityNumber() );
+	level notify( "activator", guy );
+	level notify( "activator_selected" );
+	level.activ = guy;
 }
 
 updateGameTypeDvars()
 {
+	level endon( "game_ended" );
 	level waittill( "game_started" );
 	level.startTime = gettime();
 	message = "";
-	while ( game["state"] == "playing" )
-	{
-		if( !getTimeRemaining() )
-		{
-			message = "Time Ended!";
+	while ( true /*game["state"] == "playing"*/ ) {
+		if( !getTimeRemaining() ) {
+			message = "Time limit reached!";
 			break;
 		}
-		/*if( !level.activatorKilled && level.aliveJumpers )
-		{
+		if( level.activatorKilled && level.aliveJumpers > 0 ) {
 			message = "Activator Died!";
 			break;
 		}
-		if( level.activatorKilled && !level.aliveJumpers )
-		{
+		if( !level.activatorKilled && level.aliveJumpers < 1 && !isFreeRun() ) {
 			message = "Jumpers Died!";
 			break;
 		}
-		if( !level.activatorKilled && !level.aliveJumpers && getTimeRemaining > 0 )
-		{
-			message = "Everyone Died";
+		if( !level.activatorKilled && level.aliveJumpers < 2 && !isFreeRun() && !level.aliveActivator ) {
+			message = "No More Activator Found";
 			break;
-		}*/
+		}
 		wait 1;
 	}
-	endGame();
+	thread endGame( undefined, message );
 }
 
-getTimeRemaining()
-{
+getTimeRemaining() {
 	return level.timeLimit * 60000 - ( gettime() - level.startTime );
 }
 
-endGame( winner, message )
+endGame( reason, message )
 {
 	if ( game["state"] == "postgame" )
 		return;
-	
+
 	level notify ( "game_ended" );
 	game["state"] = "postgame";
+
+	level.clockTime destroy();
+	level.roundHud destroy();
+	level.aliveHud destroy();
 	
 	setGameEndTime( 0 );
 	game["roundsplayed"]++;
+	wait 2.5;
+	
 	if ( level.roundLimit > 1 && game["roundsplayed"] <= level.roundLimit && !level.forcedEnd )
 	{
 		notifyText = ("Starting round " + game["roundsplayed"] + "^7 out of " + level.roundLimit );
@@ -298,13 +366,20 @@ endGame( winner, message )
 			player closeMenu();
 			player closeInGameMenu();
 			player freezeControls( true );
-			player iprintlnBold( notifyText );
 		}
+		
+		iprintlnbold( message );
+		wait 2.5;
+		iprintlnbold( notifyText );
 		
 		wait 10;
 		map_restart( true );
 		return;
 	}
+	
+	iprintlnbold( message );
+	wait 2.5;
+	
 	wait 4;
 	exitLevel( false );
 }
@@ -312,13 +387,6 @@ endGame( winner, message )
 waitForPlayers( min )
 {
 	level.waitingForPlayers = true;
-	for( i = 0; i < level.players.size; i++ )
-	{
-		self allowsprint(true);
-		self allowjump(true);
-		self enableWeapons();
-		self setSpeedPlayer();
-	}
 	while( true )
 	{
 		counter = 0;
@@ -333,15 +401,6 @@ waitForPlayers( min )
 		wait 0.5;
 	}
 	level.waitingForPlayers = false;
-	for( i = 0; i < level.players.size; i++ )
-	{
-		player = level.players[i]; 
-		player allowsprint(false);
-		player allowjump(false);
-		player disableWeapons();
-		player setMoveSpeedScale(0); 
-	//	player [[level.spawnPlayer]]();
-	}
 }
 
 notifyConnecting()
@@ -386,7 +445,7 @@ Callback_PlayerConnect()
 	
 	self setClientDvar( "g_scriptMainMenu", game["menu_team"] );
 	
-	if( !isDefined( self.pers["team"] ) )
+	if( !isDefined( self.pers["team"] ) || self.pers["team"] == "spectator" )
 	{
 		self.pers["team"] = "spectator";
 		self.team = "spectator";
@@ -421,6 +480,14 @@ Callback_PlayerDisconnect()
 
 Callback_PlayerDamage(eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, psOffsetTime)
 {
+	if( self.sessionteam == "spectator" || game["state"] == "postgame" )
+		return;
+	
+	level notify( "player_damage", self, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, psOffsetTime );
+
+	if( isPlayer( eAttacker ) && eAttacker.pers["team"] == self.pers["team"] )
+		return;
+	
 	if( isPlayer( eAttacker ) && sMeansOfDeath == "MOD_MELEE" && isWallKnifing( eAttacker, self ) )
 		return;
 	
@@ -436,7 +503,9 @@ Callback_PlayerDamage(eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sW
 			iDamage = 1;
 
 		self finishPlayerDamage( eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, psOffsetTime );
-		eAttacker thread iw3x\_damagefeedback::updateDamageFeedback();
+	
+		if( isDefined( self ) && isPlayer( self ) && isDefined( eAttacker ) && isPlayer( eAttacker ) && eAttacker != self )
+			eAttacker thread iw3x\_damagefeedback::updateDamageFeedback();
 	}
 }
 
@@ -444,33 +513,73 @@ Callback_PlayerKilled(eInflictor, attacker, iDamage, sMeansOfDeath, sWeapon, vDi
 {
 	self endon("spawned");
 	self notify("killed_player");
+	self notify("death");
 	
-	if (self.sessionteam == "spectator" || game["state"] == "ended")
+	if (self.sessionteam == "spectator" || game["state"] == "postgame")
 		return;
 	
-	if (self.pers["team"] == attacker.pers["team"] )
-		return;
+	level notify( "player_killed", self, eInflictor, attacker, iDamage, sMeansOfDeath, sWeapon, vDir, sHitLoc, psOffsetTime, deathAnimDuration );
 	
 	if (sHitLoc == "head" && sMeansOfDeath != "MOD_MELEE")
 		sMeansOfDeath = "MOD_HEAD_SHOT";
 	
-	obituary(self, attacker, sWeapon, sMeansOfDeath);
+	self clonePlayer(deathAnimDuration);
 	
 	self.sessionstate = "dead";
 	self.statusicon = "hud_status_dead";
+	self.sessionstate =  "spectator";
 	
-	if ( isDefined( attacker.pers ) )
+	if ( isPlayer( attacker ) && attacker != self )
 	{
-		self.pers["gg_deaths"] += 1;
-		self.deaths = self.pers["gg_deaths"];
+		attacker.kills++;
+		attacker.pers["kills"]++;
+		
+		//	Give Extra Life to Jumper. Not Added yet
 	}
+	
+	if( !isFreeRun() )
+	{
+		self.deaths++;
+		self.pers["deaths"]++;
+	}
+	
+	obituary(self, attacker, sWeapon, sMeansOfDeath);
+	
+	if( self.pers["team"] == "axis" && isPlayer( attacker ) && attacker.pers["team"] == "allies" )
+	{
+		text = ( attacker.name + " ^7killed Activator" );
+		iprintlnbold( text );
 
-	self clonePlayer(deathAnimDuration);
+		level.activatorKilled = true;
+		self.pers["team"] = "allies";
+	}
+	
+	if( self.pers["team"] != "axis" )
+	{
+		self thread respawnLogic();
+	}	
 }
 
 Callback_PlayerLastStand( eInflictor, attacker, iDamage, sMeansOfDeath, sWeapon, vDir, sHitLoc, psOffsetTime, deathAnimDuration )
 {
 	self suicide();
+}
+
+respawnLogic()
+{
+	self endon( "disconnect" );
+	self endon( "spawned_player" );
+	self endon( "joined_spectators" );
+
+	if( level.activatorKilled  )
+		return;
+	
+	if( level.freeRun || game["state"] != "playing" )
+	{
+		wait 0.1;
+		self [[level.spawnPlayer]]();
+		return;
+	}
 }
 
 isWallKnifing( attacker, victim )

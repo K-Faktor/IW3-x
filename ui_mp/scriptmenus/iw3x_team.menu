@@ -45,5 +45,5 @@ menuDef {
 	DR_BUTTON( 20 150 200 20 0 0, "Spectate"	, close self;scriptmenuresponse spectator;, 1 )
 	DR_BUTTON( 20 175 200 20 0 0, "Controls"	, close self;open main_controls;, 1 )
 	DR_BUTTON( 20 200 200 20 0 0, "Options"		, close self;open main_options;, 1 )
-	DR_BUTTON( 20 225 200 20 0 0, "Quit Server"	, close self;open popup_leavegame;, 1 )
+	DR_BUTTON( 20 225 200 20 0 0, "Quit Server"	, open popup_leavegame;, 1 )
 }

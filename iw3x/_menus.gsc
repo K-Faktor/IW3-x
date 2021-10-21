@@ -57,8 +57,10 @@ onMenuResponse()
 			case "quickstatements":
 			case "quickresponses":
 				iw3x\_quickmessages::doQuickMessage( menu, int(response)-1 );
+				break;
 			case "quickstuff":
 				iw3x\_quickmessages::quickstuff( response );
+				break;
 		}
 	}
 }
