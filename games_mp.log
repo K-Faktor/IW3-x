@@ -1,0 +1,485 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 19:25:10 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:13 J;2310346614761220056;0;Seraphina
+  0:17 Q;2310346614761220056;0;Seraphina
+  0:25 J;2310346614761220056;0;Seraphina
+  0:47 ------------------------------------------------------------
+  0:47 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 19:26:00 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 19:28:28 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:08 J;2310346614761220056;0;Seraphina
+  0:12 say;2310346614761220056;0;Seraphina;reconnect
+  0:14 Q;2310346614761220056;0;Seraphina
+  0:19 ------------------------------------------------------------
+  0:19 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 19:28:50 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 20:18:39 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 20:20:26 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:14 ------------------------------------------------------------
+  0:14 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 20:20:42 2021\uptime\0 minutes\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 20:21:41 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Oct 20 20:21:52 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:18:41 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:22:29 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:23:41 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:24:14 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:30:36 2021\g_gametype\war\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:04 ------------------------------------------------------------
+  0:04 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:30:42 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:31:20 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:31:30 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:32:41 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:33:33 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:37:21 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:12 J;2310346614761220056;0;Seraphina
+  2:43 ------------------------------------------------------------
+  2:43 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:40:07 2021\uptime\2 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:51 J;2310346614761220056;0;Seraphina
+  4:04 ------------------------------------------------------------
+  4:04 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:41:29 2021\uptime\4 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  4:12 J;2310346614761220056;0;Seraphina
+  4:23 ------------------------------------------------------------
+  4:23 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:41:50 2021\uptime\4 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  4:32 J;2310346614761220056;0;Seraphina
+  5:39 ------------------------------------------------------------
+  5:39 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:43:06 2021\uptime\5 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  5:46 J;2310346614761220056;0;Seraphina
+  6:17 ------------------------------------------------------------
+  6:17 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:43:45 2021\uptime\6 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  6:24 J;2310346614761220056;0;Seraphina
+  7:25 ------------------------------------------------------------
+  7:25 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:44:55 2021\uptime\7 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  7:33 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:46:06 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:16 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:49:04 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:09 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:52:33 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:07 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:58:30 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 12:58:50 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:07 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:00:52 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:01:01 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:14 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:02:21 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:12 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:04:59 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:29 J;2310346614761220056;0;Seraphina
+  1:11 ------------------------------------------------------------
+  1:11 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:06:12 2021\uptime\1 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:18 J;2310346614761220056;0;Seraphina
+  1:21 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:07:54 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:09:56 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:11 J;2310346614761220056;0;Seraphina
+  1:11 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_YES_SIR
+  1:21 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  1:42 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  1:46 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  1:49 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  1:56 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:02 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:05 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_SUPPRESSING_FIRE
+  2:13 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  2:19 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:24 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:36 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  2:39 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_SUPPRESSING_FIRE
+  2:49 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:53 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  2:57 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_SUPPRESSING_FIRE
+  3:01 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  4:15 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  4:22 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_FALL_BACK
+  4:26 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_ATTACK_LEFT_FLANK
+  4:29 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_ATTACK_LEFT_FLANK
+  4:33 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_YES_SIR
+  4:38 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_YES_SIR
+  4:44 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+  4:48 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  4:51 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  5:29 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  5:42 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  5:45 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  6:09 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  6:12 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_MOVE_IN
+  7:42 ------------------------------------------------------------
+  7:42 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:17:40 2021\uptime\7 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  7:50 J;2310346614761220056;0;Seraphina
+  9:59 ------------------------------------------------------------
+  9:59 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:19:58 2021\uptime\9 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 10:05 J;2310346614761220056;0;Seraphina
+ 11:32 ------------------------------------------------------------
+ 11:32 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:21:32 2021\uptime\11 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 11:41 J;2310346614761220056;0;Seraphina
+ 11:49 say;2310346614761220056;0;Seraphina;hi
+ 12:38 ------------------------------------------------------------
+ 12:38 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:22:39 2021\uptime\12 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 12:46 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:53:01 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:14 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:53:40 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:07 J;2310346614761220056;0;Seraphina
+  0:20 ------------------------------------------------------------
+  0:20 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:53:40 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:20 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:54:16 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:25 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:55:36 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:13 J;2310346614761220056;0;Seraphina
+  0:17 ------------------------------------------------------------
+  0:17 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:55:36 2021\uptime\0 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:17 J;2310346614761220056;0;Seraphina
+  1:08 ------------------------------------------------------------
+  1:08 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:56:45 2021\uptime\1 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:16 J;2310346614761220056;0;Seraphina
+  2:06 ------------------------------------------------------------
+  2:06 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 13:57:44 2021\uptime\2 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:14 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:41:40 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:22 J;2310346614761220056;0;Seraphina
+  1:20 ------------------------------------------------------------
+  1:20 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:41:40 2021\uptime\1 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:20 J;2310346614761220056;0;Seraphina
+  6:54 ------------------------------------------------------------
+  6:54 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:48:37 2021\uptime\6 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:48:59 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:49:15 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:09 J;2310346614761220056;0;Seraphina
+  1:14 ------------------------------------------------------------
+  1:14 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:50:31 2021\uptime\1 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:14 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:50:38 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:34 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:53:10 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:11 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:54:39 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:10 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:55:07 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 
+FreeRun: 1
+FreeRun Time: 0.5
+Round Limit: 6
+Time Limt: 1.5
+Min Player: 2
+Speed: 1.2, 1.2
+  0:10 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:56:33 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 17:57:12 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:11 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:01:39 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:12 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:06:40 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:12 J;2310346614761220056;0;Seraphina
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:09:28 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:12 J;2310346614761220056;0;Seraphina
+  2:06 ------------------------------------------------------------
+  2:06 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:09:28 2021\uptime\2 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:06 J;2310346614761220056;0;Seraphina
+  2:34 J;2310346613730387795;1;Arc | Binara
+  3:57 ------------------------------------------------------------
+  3:57 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:09:28 2021\uptime\3 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  3:57 J;2310346613730387795;1;Arc | Binara
+  3:57 J;2310346614761220056;0;Seraphina
+  5:47 ------------------------------------------------------------
+  5:47 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:09:28 2021\uptime\5 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  5:47 J;2310346613730387795;1;Arc | Binara
+  5:47 J;2310346614761220056;0;Seraphina
+  6:03 ------------------------------------------------------------
+  6:03 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:15:31 2021\uptime\6 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:15:48 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:16:13 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:13 J;2310346614761220056;0;Seraphina
+  0:20 J;2310346613730387795;1;Arc | Binara
+  0:27 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_SORRY
+  0:34 say;2310346614761220056;0;Seraphina;come to middle
+  0:42 say;2310346613730387795;1;Arc | Binara;see
+  0:46 say;2310346613730387795;1;Arc | Binara;my head left
+  0:49 say;2310346614761220056;0;Seraphina;join
+  0:55 say;2310346613730387795;1;Arc | Binara;xD
+  0:56 say;2310346614761220056;0;Seraphina;Hmm
+  0:58 say;2310346614761220056;0;Seraphina;XD
+  0:59 say;2310346613730387795;1;Arc | Binara;when
+  1:01 say;2310346613730387795;1;Arc | Binara;go spec
+  1:05 say;2310346613730387795;1;Arc | Binara;and joined
+  1:06 say;2310346614761220056;0;Seraphina;That model is just for testing
+  1:10 say;2310346614761220056;0;Seraphina;I will rmove them
+  1:15 say;2310346613730387795;1;Arc | Binara;hm okey
+  1:17 say;2310346614761220056;0;Seraphina;YEs head isn't attached
+  1:59 say;2310346613730387795;1;Arc | Binara;seems like this mod good
+  2:04 ------------------------------------------------------------
+  2:04 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:16:13 2021\uptime\2 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:04 J;2310346613730387795;1;Arc | Binara
+  2:04 J;2310346614761220056;0;Seraphina
+  2:18 say;2310346613730387795;1;Arc | Binara;bro
+  2:20 say;2310346614761220056;0;Seraphina;yes
+  2:27 say;2310346613730387795;1;Arc | Binara;this is dr based or cj based ?
+  2:31 say;2310346614761220056;0;Seraphina;dr
+  2:39 say;2310346613730387795;1;Arc | Binara;nice
+  2:51 say;2310346614761220056;0;Seraphina;I need to configure few settings
+  2:57 say;2310346614761220056;0;Seraphina;then I will add activator pickup
+  2:58 say;2310346613730387795;1;Arc | Binara;ok bro
+  3:22 say;2310346614761220056;0;Seraphina;whole mod size is 15kb yet :P
+  3:28 say;2310346613730387795;1;Arc | Binara;ye :p
+  3:38 say;2310346614761220056;0;Seraphina;Endless freerun will be included in mod stock
+  3:44 say;2310346614761220056;0;Seraphina;so no need to add external stuff
+  3:49 say;2310346613730387795;1;Arc | Binara;hm
+  3:54 ------------------------------------------------------------
+  3:54 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:16:13 2021\uptime\3 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  3:54 J;2310346613730387795;1;Arc | Binara
+  3:54 J;2310346614761220056;0;Seraphina
+  3:55 say;2310346614761220056;0;Seraphina;finalkillcam will also add soon
+  4:04 say;2310346613730387795;1;Arc | Binara;nice
+  4:11 say;2310346614761220056;0;Seraphina;reducing the scripts
+  4:19 say;2310346614761220056;0;Seraphina;so it will become more smoother
+  5:06 say;2310346614761220056;0;Seraphina;your head is now attched :P
+  5:13 say;2310346613730387795;1;Arc | Binara;ye
+  5:19 say;2310346613730387795;1;Arc | Binara;check now
+  5:21 say;2310346614761220056;0;Seraphina;have to check in developer mod
+  5:36 say;2310346613730387795;1;Arc | Binara;see
+  5:37 say;2310346614761220056;0;Seraphina;nope
+  5:45 ------------------------------------------------------------
+  5:45 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:16:13 2021\uptime\5 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  5:45 J;2310346613730387795;1;Arc | Binara
+  5:45 J;2310346614761220056;0;Seraphina
+  6:03 say;2310346613730387795;1;Arc | Binara;come middle
+  6:22 say;2310346613730387795;1;Arc | Binara;xD
+  6:50 ------------------------------------------------------------
+  6:50 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:23:03 2021\uptime\6 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  6:59 J;2310346614761220056;0;Seraphina
+  7:01 J;2310346613730387795;1;Arc | Binara
+  7:36 say;2310346614761220056;0;Seraphina;no attached
+  7:37 say;2310346614761220056;0;Seraphina;:P
+  7:40 say;2310346613730387795;1;Arc | Binara;:D
+  7:57 say;2310346614761220056;0;Seraphina;this shit is happening coz of that error I send u before
+  8:05 say;2310346613730387795;1;Arc | Binara;oh
+  8:50 ------------------------------------------------------------
+  8:50 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:23:03 2021\uptime\8 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  8:50 J;2310346613730387795;1;Arc | Binara
+  8:50 J;2310346614761220056;0;Seraphina
+  8:58 say;2310346614761220056;0;Seraphina;I have to add 1 more thing
+  9:03 say;2310346614761220056;0;Seraphina;if one player is left
+  9:15 say;2310346614761220056;0;Seraphina;so restart next map and then wait for 2
+  9:16 say;2310346613730387795;1;Arc | Binara;auto acti selec
+  9:18 say;2310346613730387795;1;Arc | Binara;auto acti select
+  9:28 say;2310346614761220056;0;Seraphina;thats easy thing
+  9:39 say;2310346614761220056;0;Seraphina;I need to add damagefeedback before acti selector
+  9:50 say;2310346613730387795;1;Arc | Binara;nah i mean when acti left
+ 10:01 say;2310346614761220056;0;Seraphina;thats what I was saying about 1 player
+ 10:10 say;2310346613730387795;1;Arc | Binara;mm ok
+ 10:15 say;2310346614761220056;0;Seraphina;I was thinking
+ 10:22 say;2310346614761220056;0;Seraphina;not to add if jumper left the server
+ 10:28 say;2310346614761220056;0;Seraphina;activator*
+ 10:36 say;2310346614761220056;0;Seraphina;then pick other activator from jumpers
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:37:42 2021\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:41 J;2310346614761220056;0;Seraphina
+  0:49 J;2310346613730387795;1;Arc | Binara
+  1:14 say;2310346614761220056;0;Seraphina;haha
+  1:17 say;2310346613730387795;1;Arc | Binara;xD
+  2:02 say;2310346614761220056;0;Seraphina;is your showing
+  2:14 say;2310346614761220056;0;Seraphina;when u shot me
+  2:16 say;2310346613730387795;1;Arc | Binara;ci
+  2:22 say;2310346613730387795;1;Arc | Binara;ye
+  2:28 say;2310346614761220056;0;Seraphina;when u shot me
+  2:31 say;2310346613730387795;1;Arc | Binara;dmg feedback is showing
+  2:31 say;2310346614761220056;0;Seraphina;it shows u
+  2:40 ------------------------------------------------------------
+  2:40 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:37:42 2021\uptime\2 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:40 J;2310346613730387795;1;Arc | Binara
+  2:40 J;2310346614761220056;0;Seraphina
+  3:08 say;2310346613730387795;1;Arc | Binara;bro im ci or
+  3:11 say;2310346614761220056;0;Seraphina;ci
+  3:21 say;2310346613730387795;1;Arc | Binara;ok]
+  3:25 say;2310346614761220056;0;Seraphina;come to middle
+  4:31 ------------------------------------------------------------
+  4:31 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:37:42 2021\uptime\4 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  4:31 J;2310346613730387795;1;Arc | Binara
+  4:31 J;2310346614761220056;0;Seraphina
+  4:44 ------------------------------------------------------------
+  4:44 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:42:26 2021\uptime\4 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  4:53 J;2310346614761220056;0;Seraphina
+  6:46 ------------------------------------------------------------
+  6:46 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:42:26 2021\uptime\6 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  6:46 J;2310346614761220056;0;Seraphina
+  7:58 J;2310346613730387795;1;Arc | Binara
+  8:24 ------------------------------------------------------------
+  8:24 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\8 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  8:35 J;2310346614761220056;0;Seraphina
+  9:26 ------------------------------------------------------------
+  9:26 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\9 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  9:26 J;2310346614761220056;0;Seraphina
+  9:53 J;2310346614761220056;0;Seraphina
+ 10:25 ------------------------------------------------------------
+ 10:25 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\10 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 10:25 J;2310346614761220056;0;Seraphina
+ 10:57 J;2310346613730387795;1;Arc | Binara
+ 11:02 say;2310346614761220056;0;Seraphina;XD
+ 11:36 ------------------------------------------------------------
+ 11:36 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\11 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 11:36 J;2310346613730387795;1;Arc | Binara
+ 11:36 J;2310346614761220056;0;Seraphina
+ 12:11 say;2310346614761220056;0;Seraphina;it is doing some shitty stuffs
+ 12:12 say;2310346614761220056;0;Seraphina;XD
+ 12:15 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_YES_SIR
+ 12:17 say;2310346613730387795;1;Arc | Binara;xD
+ 12:22 say;2310346614761220056;0;Seraphina;shot me
+ 12:36 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 12:40 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 12:44 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_NO_SIR
+ 12:47 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 12:49 say;2310346614761220056;0;Seraphina;this
+ 12:58 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_NO_SIR
+ 13:01 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 13:03 say;2310346614761220056;0;Seraphina;XD
+ 13:08 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 13:11 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 13:14 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_IM_IN_POSITION
+ 13:17 sayteam;2310346614761220056;0;Seraphina;QUICKMESSAGE_SORRY
+ 13:26 ------------------------------------------------------------
+ 13:26 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\13 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 13:26 J;2310346613730387795;1;Arc | Binara
+ 13:26 J;2310346614761220056;0;Seraphina
+ 15:17 ------------------------------------------------------------
+ 15:17 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\15 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 15:17 J;2310346613730387795;1;Arc | Binara
+ 15:17 J;2310346614761220056;0;Seraphina
+ 17:07 ------------------------------------------------------------
+ 17:07 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\17 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 17:07 J;2310346613730387795;1;Arc | Binara
+ 17:07 J;2310346614761220056;0;Seraphina
+ 17:12 say;2310346614761220056;0;Seraphina;This shit :P
+ 17:16 say;2310346613730387795;1;Arc | Binara;xD
+ 17:24 say;2310346614761220056;0;Seraphina;moving me from spec to jumpers D
+ 17:36 say;2310346613730387795;1;Arc | Binara;bro add
+ 17:38 say;2310346614761220056;0;Seraphina;alot of logical errors
+ 17:46 say;2310346613730387795;1;Arc | Binara;promod running
+ 17:50 say;2310346613730387795;1;Arc | Binara;this is
+ 17:58 say;2310346613730387795;1;Arc | Binara;not stable run]
+ 18:10 say;2310346613730387795;1;Arc | Binara;camera is moving :d
+ 18:11 say;2310346614761220056;0;Seraphina;Give me ur github account
+ 18:21 say;2310346614761220056;0;Seraphina;lemme add the source
+ 18:23 say;2310346613730387795;1;Arc | Binara;acc id ?
+ 18:27 say;2310346614761220056;0;Seraphina;github
+ 18:30 say;2310346613730387795;1;Arc | Binara;wait
+ 18:58 ------------------------------------------------------------
+ 18:58 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\19 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 18:58 J;2310346613730387795;1;Arc | Binara
+ 18:58 J;2310346614761220056;0;Seraphina
+ 20:48 ------------------------------------------------------------
+ 20:48 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\20 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 20:48 J;2310346613730387795;1;Arc | Binara
+ 20:48 J;2310346614761220056;0;Seraphina
+ 21:44 say;2310346613730387795;1;Arc | Binara;bro wait
+ 21:50 say;2310346613730387795;1;Arc | Binara;give me 2 mins
+ 22:16 ------------------------------------------------------------
+ 22:16 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\22 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 22:16 J;2310346613730387795;1;Arc | Binara
+ 22:16 J;2310346614761220056;0;Seraphina
+ 23:05 say;2310346613730387795;1;Arc | Binara;bro
+ 23:08 say;2310346613730387795;1;Arc | Binara;https:
+ 23:14 say;2310346613730387795;1;Arc | Binara;Binara2005
+ 23:15 say;2310346613730387795;1;Arc | Binara;Binara2005
+ 23:16 say;2310346613730387795;1;Arc | Binara;Binara2005
+ 23:25 say;2310346613730387795;1;Arc | Binara;github
+ 23:29 ------------------------------------------------------------
+ 23:29 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\23 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 23:29 J;2310346613730387795;1;Arc | Binara
+ 23:29 J;2310346614761220056;0;Seraphina
+ 24:02 say;2310346614761220056;0;Seraphina;check i sent u
+ 24:06 say;2310346613730387795;1;Arc | Binara;ok bro
+ 24:50 say;2310346613730387795;1;Arc | Binara;bro
+ 24:56 say;2310346613730387795;1;Arc | Binara;sorry for asking this
+ 25:06 say;2310346613730387795;1;Arc | Binara;how to get that source from githubb ?
+ 25:18 say;2310346613730387795;1;Arc | Binara;idk how
+ 25:20 ------------------------------------------------------------
+ 25:20 InitGame: \fs_game\mods/seraphina\version\CoD4 X - win_mingw-x86 build 1109 Aug  2 2021\shortversion\-\build\1109\branch\master\revision\c806471e52640f8c831abe669ae6f2bb8f185948\sv_maxclients\24\_CoD4 X Site\http://cod4x.me\protocol\20\sv_privateClients\0\sv_hostname\^5CoD4Host\sv_minPing\0\sv_maxPing\0\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Thu Oct 21 18:46:06 2021\uptime\25 minutes\g_gametype\dr\mapname\mp_crash\sv_maxRate\100000\sv_floodprotect\4\sv_pure\1\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 25:20 J;2310346613730387795;1;Arc | Binara
+ 25:20 J;2310346614761220056;0;Seraphina
+ 25:46 say;2310346614761220056;0;Seraphina;wait
+ 25:49 say;2310346614761220056;0;Seraphina;I will add the files
+ 25:54 say;2310346614761220056;0;Seraphina;so u can download ez pzz
+ 26:02 say;2310346614761220056;0;Seraphina;or whether download github desktop
+ 26:04 say;2310346613730387795;1;Arc | Binara;ok bro
+ 26:26 say;2310346613730387795;1;Arc | Binara;im currently using github on web
+ 26:30 say;2310346614761220056;0;Seraphina;did u accept request
+ 26:41 say;2310346614761220056;0;Seraphina;just like u downloaded dulkith files
+ 27:04 say;2310346613730387795;1;Arc | Binara;how to accept
+ 27:07 say;2310346613730387795;1;Arc | Binara;that

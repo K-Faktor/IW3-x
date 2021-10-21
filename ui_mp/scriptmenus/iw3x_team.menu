@@ -1,0 +1,49 @@
+
+#include "ui/menudef.h"
+#include "ui_mp/iw3x_common.inc"
+
+#define MENU_OPEN
+#define MENU_CLOSE	close self;
+
+menuDef {
+	name			"iw3x_team"
+	rect			0 0 640 480
+	focuscolor		COLOR_FOCUSED
+	style			WINDOW_STYLE_EMPTY
+	blurWorld		7.0
+	
+	ON_MENU_OPEN( MENU_OPEN );
+	ON_MENU_ESC( MENU_CLOSE );
+	
+	/*********************************************\
+	|	
+	\*********************************************/
+	/*itemDef {
+		rect			FULLSCREEN_WIDE
+		style			WINDOW_STYLE_SHADER
+		background		"iw3x_background"
+		visible			1	decoration
+	}
+	itemDef {
+		rect			-107 0 854 80
+		style			WINDOW_STYLE_FILLED
+		backcolor		0 0 0 0.75
+		visible			1	decoration
+	}
+	
+	itemDef {
+		rect			-107 450 854 30
+		style			WINDOW_STYLE_FILLED
+		backcolor		0 0 0 0.75
+		visible			1	decoration
+	}*/
+	
+	/*********************************************\
+	|	
+	\*********************************************/
+	DR_BUTTON( 20 125 200 20 0 0, "Play Game"	, close self;scriptmenuresponse join_game;, 1 )
+	DR_BUTTON( 20 150 200 20 0 0, "Spectate"	, close self;scriptmenuresponse spectator;, 1 )
+	DR_BUTTON( 20 175 200 20 0 0, "Controls"	, close self;open main_controls;, 1 )
+	DR_BUTTON( 20 200 200 20 0 0, "Options"		, close self;open main_options;, 1 )
+	DR_BUTTON( 20 225 200 20 0 0, "Quit Server"	, close self;open popup_leavegame;, 1 )
+}

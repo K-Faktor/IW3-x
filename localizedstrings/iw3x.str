@@ -1,0 +1,10 @@
+REFERENCE			GAMETYPE
+LANG_ENGLISH		"IW3x Deathrun v0.1 Beta!"
+
+REFERENCE           ROUND_BEGINS_IN
+LANG_ENGLISH        "Round begins in..."
+
+REFERENCE           WAITING_PLAYERS
+LANG_ENGLISH        "Waiting for more players to start round..."
+
+ENDMARKER

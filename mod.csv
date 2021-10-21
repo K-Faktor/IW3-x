@@ -1,0 +1,13 @@
+localize,iw3x
+
+menufile,ui_mp/iw3x.txt
+menufile,ui_mp/scriptmenus/clientcmd.menu
+menufile,ui_mp/scriptmenus/iw3x_team.menu
+menufile,ui_mp/scriptmenus/quickstuff.menu
+
+rawfile,maps/mp/gametypes/_gametypes.txt
+rawfile,maps/mp/gametypes/dr.txt
+
+//material,iw3x_background
+//material,iw3x_button_bkg
+//material,iw3x_cod4x
